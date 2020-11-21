@@ -10,7 +10,7 @@ app.config['JSONIFY_PRETTYPRINT_REGULAR'] = True
 @app.route('/')
 def index():
     info = {
-        "mensaje": "Bienvenido a la API del curriculum vitae de Nahuel Tori.",
+        "mensaje": "Bienvenido a la API del curriculum vitae de Yamil Jaskolowski.",
         "acciones": [
             "GET /curriculum",
             "POST /mensajes"
