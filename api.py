@@ -41,9 +41,9 @@ def cv():
         },
         "intereses": ["python", "apis", "enseñar"],
         "redes": {
-            "github": "https://github.com/nahueltori",
-            "twitter": "https://twitter.com/nahueltori",
-            "linkedin": "https://www.linkedin.com/in/nahueltori"
+            "github": "https://github.com/",
+            "twitter": "https://twitter.com/",
+            "linkedin": "https://www.linkedin.com/in/"
         },
         "foto": url_imagen
     }
